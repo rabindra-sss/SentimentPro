@@ -1,6 +1,7 @@
-# DistilBERT Text Classification
-##Overview
-This project leverages DistilBERT, a smaller, efficient variant of BERT, for text classification tasks. 
+# SentimentPro: Optimizing Language Model for Sentiment Analysis
+## Overview
+Fine-tuned a pre-trained transformer-based language model, for sentiment classification on the IMDb dataset.
+<br> This project leverages DistilBERT, a smaller, efficient variant of BERT, for text classification tasks. 
 <br> DistilBERT provides a balance between model performance and computational efficiency.
 
 ## Features
