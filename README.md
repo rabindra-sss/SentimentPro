@@ -7,7 +7,7 @@ Fine-tuned a pre-trained transformer-based language model, for sentiment classif
 ## Features
 * Model: DistilBERT (a distilled version of BERT)
 * Task: Text classification
-* Metrics: Achieved 88.1% accuracy with training and validation losses of 0.0058 and 1.54, respectively.
+* Metrics: Achieved 91.5% accuracy with training and validation losses of 0.27 and 0.35, respectively. 
 
 ## Modules
 Transformers, Datasets, PyTorch, Evaluate, PEFT, NumPy
